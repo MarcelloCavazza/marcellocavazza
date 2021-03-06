@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/marcello-henrique-cavazza-oliveira-b5a978201/"><img src="https://img.shields.io/badge/-Marcello%20Cavazza-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:marcellocavazzaoliveira@gmail.com"><img src="https://img.shields.io/badge/-marcellocavazzaoliveira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+<p>Profissional focado, comprometido e comunicativo. Disposto a aprender e melhorar no que for necessário para poder crescer profissionalmente e ingressar no mercado de trabalho
+</p>
 
 <h2> 👨‍💻 &nbsp;Habilidades</h2>
 <h3>💻 &nbsp;Front-end:</h3>
