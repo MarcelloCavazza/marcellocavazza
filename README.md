@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza)](https://github.com/MarcelloCavazza/github-readme-stats)
 <h1>Olá, sou Marcello um amante de Front-End<h1>
 <p align="center">
 <a href="https://instagram.com/cavatsza"><img src="https://img.shields.io/badge/-@cavatsza_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -13,3 +12,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+<h3>Alguns Dados</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
