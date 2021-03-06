@@ -6,7 +6,9 @@
 <a href="mailto:marcellocavazzaoliveira@gmail.com"><img src="https://img.shields.io/badge/-marcellocavazzaoliveira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p><h4>Profissional focado, comprometido e comunicativo. Disposto a aprender e melhorar no que for necessário para poder crescer profissionalmente e ingressar no mercado de trabalho.
+  
   -Solteiro
+  
   -16 anos</h4>
 </p>
 
