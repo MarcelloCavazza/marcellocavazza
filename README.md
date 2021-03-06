@@ -1,4 +1,4 @@
-<h1>Olá, sou Marcello um amante de Front-End<h1>
+<h1>👋Olá, sou Marcello um amante de Front-End.<h1>
 <p align="center">
 <a href="https://instagram.com/cavatsza"><img src="https://img.shields.io/badge/-@cavatsza_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>-->
