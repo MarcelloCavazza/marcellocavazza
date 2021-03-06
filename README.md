@@ -13,6 +13,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-<h2>🚀 &nbsp;A Little More About My Profile</h2>
+<h2>🚀 &nbsp;Alguns detalhes do meu Perfil:</h2>
 
 [![Marcello Cavazza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelloCavazza)](https://github.com/anuraghazra/github-readme-stats)
