@@ -6,5 +6,10 @@
 <a href="https://www.linkedin.com/in/marcello-henrique-cavazza-oliveira-b5a978201/"><img src="https://img.shields.io/badge/-Marcello%20Cavazza-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:marcellocavazzaoliveira@gmail.com"><img src="https://img.shields.io/badge/-marcellocavazzaoliveira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact)](https://github.com/MarcelloCavazza/github-readme-stats)
+
+<h2> 🛠 &nbsp;Habilidades</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
