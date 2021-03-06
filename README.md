@@ -13,5 +13,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-<h3>Alguns Dados</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2>🚀 &nbsp;A Little More About My Profile</h2>
+
+[![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha)](https://github.com/anuraghazra/github-readme-stats)
