@@ -7,9 +7,7 @@
 </p>
 <p><h4>Profissional focado, comprometido e comunicativo. Disposto a aprender e melhorar no que for necessário para poder crescer profissionalmente e ingressar no mercado de trabalho.
   
-  -Solteiro
-  
-  -16 anos</h4>
+  -Solteiro,16 anos</h4>
 </p>
 
 <h2> 👨‍💻 &nbsp;Habilidades</h2>
