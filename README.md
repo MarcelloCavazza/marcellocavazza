@@ -7,7 +7,10 @@
 </p>
 <p><h4>Profissional focado, comprometido e comunicativo. 
   
-  16 anos estudante de ensino médio no Cotemig</h4>
+  16 anos estudante de ensino médio no Cotemig
+  
+  <a href="https://docs.google.com/document/u/2/d/e/2PACX-1vQFxMu24_UCi5Z5ifZtYqayo-I1SefMh5uYGJ0t9P1LwgO7pUyJsVtK5fho8qgmnuJYtzEE0SW5nFgX/pub">Currículo</a>
+  </h4>
 </p>
 
 <h2> 👨‍💻 &nbsp;Habilidades</h2>
