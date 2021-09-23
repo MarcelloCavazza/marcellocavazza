@@ -1,4 +1,4 @@
-<h1>👋Olá, sou Marcello um amante de Front-End.<h1>
+<h1>👋Olá, sou Marcello um amante da tecnologia.<h1>
 <p align="center">
   <div align="center">
   <a href="https://github.com/rafaballerini">
