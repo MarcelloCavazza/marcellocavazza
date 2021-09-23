@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/marcello-henrique-cavazza-oliveira-b5a978201/" target="_blank"><img src="https://img.shields.io/badge/-Marcello%20Cavazza-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:marcellocavazzaoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </p>
-  <p><h4>Profissional focado, comprometido. 
+  <p><h4>Profissional focado, comprometido. <br>
   
   Estudante de ensino médio no Cotemig, full stack.
   
