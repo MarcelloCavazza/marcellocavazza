@@ -10,9 +10,9 @@
   <a href="https://www.linkedin.com/in/marcello-henrique-cavazza-oliveira-b5a978201/" target="_blank"><img src="https://img.shields.io/badge/-Marcello%20Cavazza-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:marcellocavazzaoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </p>
-  <p><h4>Profissional focado, comprometido e comunicativo. 
+  <p><h4>Profissional focado, comprometido. 
   
-  16 anos estudante de ensino médio no Cotemig
+  Estudante de ensino médio no Cotemig, full stack.
   
   <a href="https://docs.google.com/document/u/2/d/e/2PACX-1vQFxMu24_UCi5Z5ifZtYqayo-I1SefMh5uYGJ0t9P1LwgO7pUyJsVtK5fho8qgmnuJYtzEE0SW5nFgX/pub" target="_blank">Currículo</a>
   </h4>
