@@ -15,6 +15,6 @@
   <!--<a href = "http://wa.me/5531997113886"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
   <div>💻<a href = "marcello33.myartsonline.com">Projetos Online</a></div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/MarcelloCavazza/blob/output/github-contribution-grid-snake.svg)
  
 </div>
