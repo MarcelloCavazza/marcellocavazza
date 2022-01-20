@@ -1,5 +1,6 @@
 ## Olá, sou o Marcello Cavazza!
 <div align="center">
+  <div>Um amante de front-end</div>
   <a href="https://github.com/MarcelloCavazza">
   <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact&langs_count=7&theme=dracula"/>
