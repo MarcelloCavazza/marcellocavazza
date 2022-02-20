@@ -1,5 +1,5 @@
 [![card](https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&theme=default)](https://github.com/MarcelloCavazza/)
-[![card](https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&theme=default&show_icons=true)](https://github.com/MarcelloCavazza/)
+[![MarcelloCavazza](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&hide=html&layout=compact=true&theme=default)](https://github.com/MarcelloCavazza/)
 
 <div> 
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
