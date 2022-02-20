@@ -1,6 +1,9 @@
-[![card](https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&theme=default)](https://github.com/MarcelloCavazza/)
-[![MarcelloCavazza](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&hide=html&layout=compact&theme=default)](https://github.com/MarcelloCavazza/)
-
+## Olá, sou o Marcello Cavazza! Um fã de front-end
+<div align="center">
+  <a href="https://github.com/MarcelloCavazza">
+  <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
 <div> 
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <!--<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
