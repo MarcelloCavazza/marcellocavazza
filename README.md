@@ -1,7 +1,7 @@
 ## Olá, sou o Marcello Cavazza! Um fã de desenvolvimento!
 <div align="center">
   <a href="https://github.com/MarcelloCavazza">
-  <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&hide=html&layout=compact=true&theme=default"/>
+  [![card](https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&theme=default)](https://github.com/MarcelloCavazza/)
   <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&hide=html&layout=compact=true&theme=default"/>
 </div>
 <div> 
