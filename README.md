@@ -25,6 +25,6 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="25">
   <!--<div>💻<a href = "marcello33.myartsonline.com">Projetos Online</a></div>-->
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marcellocavazza/marcellocavazza/blob/output/github-contribution-grid-snake.svg)
  
 </div>
