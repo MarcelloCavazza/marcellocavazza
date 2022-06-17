@@ -1,4 +1,4 @@
-## Hi, my name is Marcello, a big fan of programming!
+## Hi! my name is Marcello, a big fan of programming!
 <div align="center">
   <a href="https://github.com/MarcelloCavazza">
   <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
