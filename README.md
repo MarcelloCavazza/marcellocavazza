@@ -1,4 +1,4 @@
-## Hi! 
+# Hi! 
 ## My name is Marcello and I love programming!
 <div align="center">
   <a href="https://github.com/MarcelloCavazza">
