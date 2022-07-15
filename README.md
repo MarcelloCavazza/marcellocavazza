@@ -1,5 +1,4 @@
-# Hi! 
-## My name is Marcello and I love programming!
+## Hi, my name is Marcello and I love programming!
 <div align="center">
   <a href="https://github.com/MarcelloCavazza">
   <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact&langs_count=7&theme=dark"/>
