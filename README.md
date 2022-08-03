@@ -3,7 +3,7 @@
   <a href="https://github.com/MarcelloCavazza">
   <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api?username=MarcelloCavazza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150vw" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact&langs_count=7&theme=dark"/>
-  <img height='140em' src='https://github-readme-streak-stats.herokuapp.com?user=MarcelloCavazza&theme=dark&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarcelloCavazza&theme=dark&date_format=%5BY%20%5DM%20j&sideNums=89DD24)](https://git.io/streak-stats)
 </div>
 <div> 
   
