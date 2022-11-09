@@ -4,6 +4,7 @@
   <img height="150em" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact&langs_count=7&theme=dark"/>
     <img height='150em' src='https://github-readme-streak-stats.herokuapp.com?user=MarcelloCavazza&theme=dark&date_format=%5BY%20%5DM%20j&sideNums=89DD24' />
 </div>
+  <i>Se vai pegar algum código pelo menos deixar uma estrela kk</i>
 <div> 
   
   ## Feel Free To Connect With Me! <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
