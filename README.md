@@ -1,4 +1,4 @@
-## Hi, my name is Marcello and I love programming!
+# Hi, my name is Marcello and I love programming!
 <div align="center">
   <a href="https://github.com/MarcelloCavazza">
   <img height="150em" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact&langs_count=7&theme=dark"/>
@@ -7,7 +7,7 @@
   <i>Se vai pegar algum código pelo menos deixar uma estrela kk</i>
 <div> 
   
-  ## Feel Free To Connect With Me! <a href = "https://linktr.ee/marcellocavazza" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  Feel Free To Connect With Me! <a href = "https://linktr.ee/marcellocavazza" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
   
   <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Some knowledges</h2>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25">
