@@ -1,9 +1,11 @@
 # Hi, my name is Marcello and I love programming!
 <div align="center">
   <a href="https://github.com/MarcelloCavazza">
-  <img height="150em" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact&langs_count=7&theme=dark"/>
-    <img height='150em' src='https://github-readme-streak-stats.herokuapp.com?user=MarcelloCavazza&theme=dark&date_format=%5BY%20%5DM%20j&sideNums=89DD24' />
     <img height='150em' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcelloCavazza&theme=vue' />
+    <div>
+      <img height="150em" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact&langs_count=7&theme=dark"/>
+    <img height='150em' src='https://github-readme-streak-stats.herokuapp.com?user=MarcelloCavazza&theme=dark&date_format=%5BY%20%5DM%20j&sideNums=89DD24' />
+    </div>
 </div>
   <i>Se vai pegar algum código pelo menos deixar uma estrela kk</i>
 <div> 
