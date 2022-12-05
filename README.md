@@ -1,4 +1,4 @@
-# Hi, my name is Marcello and I love programming!
+# Hi! Im'm Marcello and I love programming.
 <div align="center">
   <a href="https://github.com/MarcelloCavazza">
     <div>
