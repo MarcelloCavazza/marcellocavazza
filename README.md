@@ -8,7 +8,8 @@
 </div>
 <div> 
   
-  <h2>Feel Free To Connect With Me!</h2> 
+  <h2>FEEL FREE TO CONNECT WITH ME!</h2>
+  //Feel Free To Connect With Me!
 <a href = "https://linktr.ee/marcellocavazza" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
   
 <!--   <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Some knowledges</h2>
