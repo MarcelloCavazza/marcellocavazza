@@ -6,7 +6,6 @@
     <img height='150em' src='https://github-readme-streak-stats.herokuapp.com?user=MarcelloCavazza&theme=dark&date_format=%5BY%20%5DM%20j&sideNums=89DD24' />
     </div>
 </div>
-  <i>Se vai pegar algum código pelo menos deixar uma estrela kk</i>
 <div> 
   
   <h2>Feel Free To Connect With Me!</h2> 
