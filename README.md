@@ -26,6 +26,6 @@
   <!--<div>💻<a href = "marcello33.myartsonline.com">Projetos Online</a></div>-->
   
 <!--   <img src="" height="25"> -->
-  ![Snake animation](https://github.com/marcellocavazza/marcellocavazza/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/marcellocavazza/marcellocavazza/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
