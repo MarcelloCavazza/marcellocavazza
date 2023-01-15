@@ -1,11 +1,4 @@
 # Hi,<br> I'm Marcello and I love programming!
-<div align="center">
-  <a href="https://github.com/MarcelloCavazza">
-    <div>
-      <img height="150em" display: "inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloCavazza&layout=compact&langs_count=7&theme=dark"/>
-    <img height='150em' src='https://github-readme-streak-stats.herokuapp.com?user=MarcelloCavazza&theme=dark&date_format=%5BY%20%5DM%20j&sideNums=89DD24' />
-    </div>
-</div>
 <div> 
   
   <h4>FEEL FREE TO CONNECT WITH ME!</h4>
